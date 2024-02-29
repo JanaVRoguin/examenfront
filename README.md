@@ -1,2 +1,5 @@
-# examenfront
-Examen Jana Roguin
+## Para correr el proyecto
+
+`npm install`
+
+`npm run dev`
